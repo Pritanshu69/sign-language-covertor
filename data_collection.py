@@ -3,7 +3,7 @@ import os
 import time
 
 # Define the labels for each gesture
-Labels = ["hello","thankyou", "yes","no", "iloveyou"]
+Labels = ["hello", "iloveyou","no","thankyou","yes" ]
 
 # Set the number of images per label to 20
 num_images_per_label = 50
